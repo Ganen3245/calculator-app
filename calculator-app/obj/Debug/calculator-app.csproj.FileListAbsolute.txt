@@ -1,0 +1,7 @@
+C:\Users\praha\Documents\C# PROGRAMMING\Tugas praktikum pertemuan ke-2\calculator-app\calculator-app\bin\Debug\calculator-app.exe.config
+C:\Users\praha\Documents\C# PROGRAMMING\Tugas praktikum pertemuan ke-2\calculator-app\calculator-app\bin\Debug\calculator-app.exe
+C:\Users\praha\Documents\C# PROGRAMMING\Tugas praktikum pertemuan ke-2\calculator-app\calculator-app\bin\Debug\calculator-app.pdb
+C:\Users\praha\Documents\C# PROGRAMMING\Tugas praktikum pertemuan ke-2\calculator-app\calculator-app\obj\Debug\calculator-app.csproj.AssemblyReference.cache
+C:\Users\praha\Documents\C# PROGRAMMING\Tugas praktikum pertemuan ke-2\calculator-app\calculator-app\obj\Debug\calculator-app.csproj.CoreCompileInputs.cache
+C:\Users\praha\Documents\C# PROGRAMMING\Tugas praktikum pertemuan ke-2\calculator-app\calculator-app\obj\Debug\calculator-app.exe
+C:\Users\praha\Documents\C# PROGRAMMING\Tugas praktikum pertemuan ke-2\calculator-app\calculator-app\obj\Debug\calculator-app.pdb
